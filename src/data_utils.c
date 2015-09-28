@@ -135,3 +135,7 @@ void deallocate_data(data_ptr node) {
   }
 
 }
+
+int persist_data(storage_ptr repo, data_ptr node) {
+  
+}
